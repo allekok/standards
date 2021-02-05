@@ -1,11 +1,11 @@
 <div dir=rtl>
 
-# ئەلفوبێی کوردی
+# ئەلفووبێی کوردی
 - [ستانداردی یونیکۆد](https://www.unicode.org/charts/PDF/U0600.pdf)
 - [ستانداردی گشتی، ژمارە ١](http://unicode.ekrg.org/ku_unicodes.html)  
   [کیبۆردی ستانداردی کوردی](http://unicode.ekrg.org/download/UnifiedKeyboardProject_ku.pdf)
 - [پەراوێزی ویکیپیدیا، ژمارە ٢](https://ckb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%D8%AF%DB%8C%D8%A7:%D9%86%D9%88%D9%88%D8%B3%DB%8C%D9%86%DB%8C_%DA%A9%D9%88%D8%B1%D8%AF%DB%8C)
-## ئەلفوبێی ئارامی
+## ئەلفووبێی ئارامی
 | پیت | کۆدی یونیکۆد | ستاندارد | سەبارەت |
 | -- | --------- | ----- | ----- |
 | ئ | 0x0626 | ١و٢ | - |
